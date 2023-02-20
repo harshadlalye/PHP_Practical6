@@ -1,0 +1,19 @@
+Q1. Create a databasse "MCA", with table "StudentInfo" 
+add fields as PRN,fname, lname, DOB, Address,City, Pincode, AdmissionYear
+
+1) Insert 5 records
+2) Update pincode for PRN 103
+3) Display information of student where lname is "sharma"
+4) Delete information of student with AdmissionYear is "2007"
+
+
+------------------------------------------------------------------------
+
+Q2. Create a database " MCA" with table "faculty_master"
+add information of faculty as Faculty_Id( Primary Key), Name, Designation,course, AcademicYear
+Create another table "course" with information as course, class, subject, Faculty_Id, AcademicYear.
+
+1) Insert 7 records in Faculty table
+2) Insert 10 records in course tale
+3) Display information of subject where Faculty_Id is 200301
+4) Display all faculty for class BSC-II
